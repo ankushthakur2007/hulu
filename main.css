@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+}
+footer{
+    color: white;}
+
+form{
+    color: black;
+    
+}
+#if1{
+    
+    border: 2mm solid black
+    ;
+}
+.odd{
+    color: red;
+    font-family: Copperplate;
+    font-size: 20px;
+    border-style:outset;
+    border-color: #03b6fd;
+    border-width: 5px;
+    
+
+}
+.even{
+    color: green;
+    font-family: Lucida Handwriting;
+    font-weight: bold;
+    font-size: 1.5em;
+}
